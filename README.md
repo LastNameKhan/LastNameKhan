@@ -1,6 +1,6 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=LastNameKhan&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-### About Me: 
+## About Me: 
 Hello! I'm Aman, a passionate Front-End Developer specializing in creating dynamic and responsive web applications. With a strong foundation in HTML, CSS, and JavaScript, I have honed my skills in React.js and Next.js to build seamless user experiences. My journey in web development is driven by a relentless curiosity and a dedication to mastering the latest technologies and best practices.
 
 ## Languages and Tools 
@@ -38,7 +38,17 @@ Hello! I'm Aman, a passionate Front-End Developer specializing in creating dynam
   <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=LastNameKhan&show_icons=true&theme=vision-friendly-dark">
   <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LastNameKhan&size_weight=0.15&count_weight=0.5&layout=compact&theme=vision-friendly-dark">
 </p>
- 
 
+---
+
+## Let's Connect:
+I love collaborating with fellow developers and enthusiasts. If you have any interesting projects or opportunities, feel free to reach out!
+
+<a href="https://www.linkedin.com/in/aman-khan-5295a417b/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="linkedin"  alt="linkedin" width="55" height="55"/></a>
+<a href="https://x.com/last_name_khan" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" title="twitter"  alt="twitter" width="55" height="55"/></a>
+
+Email: <a href="mailto:lastnamekhan47@gmail.com" target="_blank">lastnamekhan47@gmail.com</a>
+
+Thank you for visiting my profile. Let's build something amazing together!
 
 
