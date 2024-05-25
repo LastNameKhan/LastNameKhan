@@ -16,6 +16,15 @@ Hello! I'm Aman, a passionate Front-End Developer specializing in creating dynam
  <img width="1000" src="./github-snake.svg" alt="snake"/>
 </p>
 
+### Frameworks:
+| React.js | Next.js | Redux | Angular.js
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="react"  alt="react" width="55" height="55"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="nextjs"  alt="nextjs" width="55" height="55"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="redux"  alt="redux" width="55" height="55"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" title="angularjs"  alt="angularjs" width="55" height="55"/>
+
+
 ---
 
   
