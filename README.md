@@ -9,3 +9,13 @@
  <img width="1000" src="./github-snake.svg" alt="snake"/>
 </p>
 
+---
+
+  
+<p align="center">
+  <img width="800" height="220" src="https://streak-stats.demolab.com?user=LastNameKhan&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
+</p>
+
+
+---
+
