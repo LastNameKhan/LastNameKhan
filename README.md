@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <svg viewBox="-16 -32 880 192" width="880" height="192" xmlns="http://www.w3.org/2000/svg">
     <style>@keyframes c0{4.15%{fill:var(--c1)}4.17%,to{fill:var(--ce)}}@keyframes
         c1{5.42%{fill:var(--c1)}5.44%,to{fill:var(--ce)}}@keyframes
