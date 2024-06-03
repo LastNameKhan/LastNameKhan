@@ -4,6 +4,17 @@
 Hello! 
 I'm Aman, a passionate Front-End Developer specializing in creating dynamic and responsive web applications. With a strong foundation in HTML, CSS, and JavaScript, I have honed my skills in React.js and Next.js to build seamless user experiences. My journey in web development is driven by a relentless curiosity and a dedication to mastering the latest technologies and best practices.
 
+📊 **this week i spent my time on:**
+<!--START_SECTION:waka-->
+
+```txt
+TypeScript   7 hrs 46 mins   ████████████████░░░░░░░░░   63.63 %
+JavaScript   2 hrs 32 mins   █████▒░░░░░░░░░░░░░░░░░░░   20.76 %
+CSS          1 hr 24 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.53 %
+JSON         17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.36 %
+Git Config   6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.93 %
+```
+
 ## Languages and Tools 
 <div>
 
