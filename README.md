@@ -2,7 +2,7 @@
 
 ## About Me: 
 Hello! 
-I'm Aman, a passionate Front-End Developer specializing in creating dynamic and responsive web applications. With a strong foundation in HTML, CSS, and JavaScript, I have honed my skills in React.js and Next.js to build seamless user experiences. My journey in web development is driven by a relentless curiosity and a dedication to mastering the latest technologies and best practices.
+I'm Aman, a passionate Front-End Developer specializing in creating dynamic and responsive web applications. With a strong foundation in HTML, CSS, and JavaScript, I have honed my skills in React.js and Next.js to build seamless user experiences.
 
 📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->
