@@ -49,7 +49,7 @@ I love collaborating with fellow developers and enthusiasts. If you have any int
 <a href="https://www.linkedin.com/in/aman-khan-5295a417b/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="linkedin"  alt="linkedin" width="55" height="55"/></a>
 <a href="https://x.com/last_name_khan" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" title="twitter"  alt="twitter" width="55" height="55"/></a>
 
-Email: <a href="mailto:lastnamekhan47@gmail.com" target="_blank">lastnamekhan47@gmail.com</a>
+Email: <a href="mailto:aman.khan.tech27@gmail.com" target="_blank">lastnamekhan47@gmail.com</a>
 
 Thank you for visiting my profile. Let's build something amazing together!
 
